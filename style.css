@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 6px;
+    background-color: darkseagreen;
+    width:70px;
+    margin: 8px auto;
+}
+h1{
+    font-size: 40px;
+}
